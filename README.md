@@ -4,7 +4,7 @@
 
 I need to complete some cleanup before it is shareable and documented . . .
 
-![Click link to see servo test 1](images/IMG_2873.MOV)
+![Click this link, then click 'view raw' to see servo test 1](images/IMG_2873.MOV)
 
 
 <img id="image_respberry_setup" src="images/IMG_2803.JPG" width="600" >
