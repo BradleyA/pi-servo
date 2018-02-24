@@ -6,7 +6,7 @@ I need to complete some cleanup before it is shareable and documented . . .
 
 Raspberry pi setup: ![](images/IMG_2803.JPG)
 
-<img src="images/IMG_2803.JPG"rotation="180" width="600" >
+<img src="images/IMG_2803.JPG" class=rotation="180" width="600" >
 
 
 ![Click link to see servo test 1](images/IMG_2873.MOV)
