@@ -1,4 +1,4 @@
-# pi-servo-test-01
+# pi-servo-project-01
 
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 
