@@ -7,7 +7,7 @@ I have been using some of these for days, months, or years and just now uploadin
 
 ![servo test 1](https://raw.githubusercontent.com/BradleyA/pi-servo-test-01/master/IMG_2873.MOV)
 
-![servo test 2](https://raw.githubusercontent.com/BradleyA/pi-servo-test-01/master/IMG_2893.MOV)
+![](IMG_2873.MOV)
 
 ### Clone
 
