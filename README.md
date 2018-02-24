@@ -1,16 +1,15 @@
 # pi-servo-test-01
 
-
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 
-I have been using some of these for days, months, or years and just now uploading them. I need to complete some cleanup before it is shareable and documented . . .
+I need to complete some cleanup before it is shareable and documented . . .
 
 Raspberry pi setup: ![](images/IMG_2803.JPG)
 
-<img src="images/IMG_2803.JPG" width="400" rotation="90">
+<img src="images/IMG_2803.JPG"rotation="180" width="600" >
 
 
-![servo test 1](images/IMG_2873.MOV)
+![Click link to see servo test 1](images/IMG_2873.MOV)
 
 
 
@@ -23,10 +22,9 @@ To install, change to the location you want to download the scripts. Use git to 
     cd pi-servo-test-01
 
 ### Design Principles
-
-    Have a simple setup process and a minimal learning curve
-    Be usable as non-root - failed adminstration requires root
-    Be easy to install and configure
+ * Have a simple setup process and a minimal learning curve
+ * Be usable as non-root
+ * Be easy to install and configure
 
 
 ### License::
