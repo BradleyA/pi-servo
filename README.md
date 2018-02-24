@@ -5,6 +5,8 @@
 
 I have been using some of these for days, months, or years and just now uploading them. I need to complete some cleanup before it is shareable and documented . . .
 
+![servo test](https://raw.githubusercontent.com/BradleyA/pi-servo-test-01/master/IMG_2873.MOV)
+
 ### Clone
 
 To install, change to the location you want to download the scripts. Use git to pull or clone these scripts into the directory. If you do not have git then enter; "sudo apt-get install git". On the github page of this script use the "HTTPS clone URL" with the 'git clone' command.
