@@ -1,3 +1,6 @@
+
+# 	servo-test-01.py	0.2.10	2018-02-24_10:24:07_CST uadmin six-rpi3b.cptx86.com v0.1-8-g3a3cdf5 
+# 	   added a picture of test 
 import RPi.GPIO as GPIO
 import time
 
