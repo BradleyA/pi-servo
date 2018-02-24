@@ -17,6 +17,10 @@ To install, change to the location you want to download the scripts. Use git to 
     git clone https://github.com/BradleyA/pi-servo-test-01
     cd pi-servo-test-01
 
+### System OS script tested
+ * Ubuntu 16.04.3 LTS (armv7l)
+
+
 ### Design Principles
  * Have a simple setup process and a minimal learning curve
  * Be usable as non-root
