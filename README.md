@@ -8,7 +8,7 @@ I need to complete some cleanup before it is shareable and documented . . .
 
 ![Click this link, then click 'view raw' to see servo test 1](images/IMG_2873.MOV)
 
-<img id="image_respberry_setup" src="images/IMG_2803.JPG" width="150" >
+<img id="image_respberry_setup" src="images/IMG_2803.JPG" width="450" >
 
 ### Clone
 To install, change to the location you want to download the scripts. Use git to pull or clone these scripts into the directory. If you do not have git then enter; "sudo apt-get install git". On the github page of this script use the "HTTPS clone URL" with the 'git clone' command.
