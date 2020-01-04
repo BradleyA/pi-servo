@@ -7,6 +7,6 @@ Unique  vistors:  |       2       |       1  |      1  |      1
 Total views: 14
 ###### Updated: 2020-01-04
 
-[Return to README](https://github.com/BradleyA/dmonitor#traffic)
+[Return to README](https://github.com/BradleyA/pi-servo/blob/master/README.md#traffic)
 
 **Note**  Data collection stopped between 10/14 & 12/9
