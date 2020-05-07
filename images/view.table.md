@@ -4,7 +4,7 @@ Date:		      |    02-03   |       04-06  |  04-13  |  04-20
 Views:		  |   4       |       3      |  29     |  1
 Unique  vistors:  |   1       |      1  |      1  |      1
 
-Total views: 102
+Total views: 37
 ###### Updated: 2020-05-07
 
 #### 2019 GitHub Visitors
