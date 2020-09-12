@@ -3,6 +3,21 @@
 [<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=31&color=blue">](images/clone.table.md)
 [<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=164&color=blue">](images/view.table.md)
 
+[![GitHub Stable Release](https://img.shields.io/badge/Release-0.2-blue.svg)](https://github.com/BradleyA/pi-servo/releases/tag/0.2)
+![GitHub Release Date](https://img.shields.io/github/release-date/BradleyA/pi-servo?color=blue)
+[![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/pi-servo/0.2?color=orange)](https://github.com/BradleyA/pi-servo/commits/)
+[![GitHub Last Commits](https://img.shields.io/github/last-commit/BradleyA/pi-servo.svg)](https://github.com/BradleyA/pi-servo/commits/)
+
+[![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/pi-servo?color=purple)](https://github.com/BradleyA/pi-servo/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/pi-servo?color=purple)](https://github.com/BradleyA/pi-servo/issues?q=is%3Aclosed+is%3Aissue)
+[<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=31&color=blueviolet">](https://github.com/BradleyA/pi-servo/blob/master/images/clone.table.md)
+[<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=164&color=blueviolet">](https://github.com/BradleyA/pi-servo/blob/master/images/view.table.md)
+[![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/pi-servo.svg)](https://github.com/BradleyA/pi-servo/)
+![Written in Bash](https://img.shields.io/badge/written%20in-bash-blue.svg)
+[![MIT License](http://img.shields.io/badge/License-MIT-blue.png)](LICENSE)
+
+----
+
 #### WARNING: These instructions below are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!  I need to complete some cleanup before it is shareable and documented . . .
 
 ![Click this link, then click 'view raw' to see servo test 1](images/IMG_2873.MOV)
