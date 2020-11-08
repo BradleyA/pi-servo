@@ -24,7 +24,6 @@
 <img id="image_respberry_setup" src="images/IMG_2803.JPG" width="450" >
 
 ## Clone
-
 To Install, change into a directory that you want to download the scripts. Use git to pull or clone these scripts into the directory. If you do not have Git installed then enter; "sudo apt-get install git" if using Debian/Ubuntu. Other Linux distribution install methods can be found here: https://git-scm.com/download/linux. On the GitHub page of this script use the "HTTPS clone URL" with the 'git clone' command.
 
     git clone https://github.com/BradleyA/pi-servo
@@ -60,7 +59,6 @@ Please do contribute!  Issues and pull requests are welcome.  Thank you for your
 [Return to top](https://github.com/BradleyA/pi-servo/blob/master/README.md#pi-servo--)
 
 #### License
-
 MIT License
 
 Copyright (c) 2020  [Bradley Allen](https://www.linkedin.com/in/bradleyhallen)
