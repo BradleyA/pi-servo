@@ -1,4 +1,4 @@
-# pi-servo  [![Release Status](https://img.shields.io/badge/Status_-Alpha-red.svg)]
+# pi-servo  [![Release Status](https://img.shields.io/badge/Status_-Alpha-red.svg)
 
 [![GitHub Stable Release](https://img.shields.io/badge/Release-0.2-blue.svg)](https://github.com/BradleyA/pi-servo/releases/tag/0.2)
 ![GitHub Release Date](https://img.shields.io/github/release-date/BradleyA/pi-servo?color=blue)
