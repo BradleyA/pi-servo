@@ -32,6 +32,8 @@ To Install, change into a directory that you want to download the scripts. Use g
 
 #### ARCHITECTURE TREE
 
+----
+
 #### Contribute
 Please do contribute!  Issues and pull requests are welcome.  Thank you for your help improving software.
 
