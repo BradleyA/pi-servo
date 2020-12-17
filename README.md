@@ -10,7 +10,7 @@
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/pi-servo?color=purple)](https://github.com/BradleyA/pi-servo/issues?q=is%3Aclosed+is%3Aissue)
 
 [<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=60&color=blueviolet">](https://github.com/BradleyA/pi-servo/blob/master/images/clone.table.md)
-[<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=216&color=blueviolet">](https://github.com/BradleyA/pi-servo/blob/master/images/view.table.md)
+[<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=302&color=blueviolet">](https://github.com/BradleyA/pi-servo/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/pi-servo.svg)](https://github.com/BradleyA/pi-servo/)
 ![Language Bash](https://img.shields.io/badge/%20Language-bash-blue.svg)
 [![MIT License](http://img.shields.io/badge/License-MIT-blue.png)](LICENSE)
