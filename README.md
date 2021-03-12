@@ -9,8 +9,8 @@
 [![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/pi-servo?color=purple)](https://github.com/BradleyA/pi-servo/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/pi-servo?color=purple)](https://github.com/BradleyA/pi-servo/issues?q=is%3Aclosed+is%3Aissue)
 
-[<img alt="GitHub Repo Clones" src="https://img.shields.io/static/v1?label=Repo Clones&message=60&color=blueviolet">](https://github.com/BradleyA/pi-servo/blob/master/images/clone.table.md)
-[<img alt="GitHub Repo Views" src="https://img.shields.io/static/v1?label=Repo Views&message=302&color=blueviolet">](https://github.com/BradleyA/pi-servo/blob/master/images/view.table.md)
+[<img alt="GitHub Repo Clones" src="https://img.shields.io/static/v1?label=Repo_Clones&message=60&color=blueviolet">](https://github.com/BradleyA/pi-servo/blob/master/images/clone.table.md)
+[<img alt="GitHub Repo Views" src="https://img.shields.io/static/v1?label=Repo_Views&message=302&color=blueviolet">](https://github.com/BradleyA/pi-servo/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/pi-servo.svg)](https://github.com/BradleyA/pi-servo/)
 ![Language Bash](https://img.shields.io/badge/%20Language-bash-blue.svg)
 [![MIT License](http://img.shields.io/badge/License-MIT-blue.png)](LICENSE)
